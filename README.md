@@ -1,2 +1,2 @@
 # ThreadPoolPProject
-CustomThreadPool
+Implementation of Custom thread pool in java.
